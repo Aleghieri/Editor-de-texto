@@ -63,3 +63,4 @@ while True:
             file.write(content)
     if event == sg.WIN_CLOSED:
         break
+
